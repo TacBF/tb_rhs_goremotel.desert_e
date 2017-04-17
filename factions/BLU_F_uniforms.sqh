@@ -1,0 +1,34 @@
+// USA - Army (UCP)
+// Author: Cole
+
+uniforms[] =
+{
+// UNIFORMS
+	
+	// Infantry
+	{"U_I_G_Story_Protagonist_F", {__ICE_gear_allRoles}},
+	{"rhsgref_uniform_para_ttsko_urban", {__ICE_gear_allRoles}},
+	
+
+
+// VESTS
+	
+	// Infantry
+	{"rhsusf_iotv_ocp_Rifleman", {__ICE_gear_allRoles}},
+
+// HELMETS
+	
+	// Infantry
+	{"H_Cap_oli", {__ICE_gear_Inf}},
+	{"H_Cap_oli_hs", {__ICE_gear_SL}},
+	{"H_Watchcap_khk", {__ICE_gear_Marksman, __ICE_gear_Sniper}},
+
+		
+
+// GLASSES
+	
+	{"rhs_googles_black", {__ICE_gear_allRoles}},
+	{"rhs_googles_orange", {__ICE_gear_allRoles}},
+	{"rhs_googles_yellow", {__ICE_gear_allRoles}},
+	{"rhs_googles_clear", {__ICE_gear_allRoles}}
+};

@@ -1,0 +1,38 @@
+// RUS - Army (Flora)
+// Author: Cole
+
+uniforms[] =
+{
+// UNIFORMS
+	
+	// Infantry
+    {"U_BG_Guerrilla_6_1", {__ICE_gear_allRoles}},
+    {"U_BG_Guerilla2_2", {__ICE_gear_allRoles}},
+    {"U_BG_Guerilla2_3", {__ICE_gear_allRoles}},
+	{"U_BG_leader", {__ICE_gear_Diver}},
+    {"rhsgref_uniform_woodland", {__ICE_gear_allRoles}},
+	{"rhsgref_uniform_woodland_olive", {__ICE_gear_allRoles}},
+	{"rhsgref_uniform_flecktarn", {__ICE_gear_allRoles}},  
+// VESTS
+	
+	// Infantry
+	{"rhsgref_6b23_khaki_rifleman", {__ICE_gear_allRoles}},
+
+// HELMETS
+	// Infantry
+	{"H_Shemag_khk", {__ICE_gear_allRoles}},
+	{"H_Shemag_olive", {__ICE_gear_allRoles}},
+	{"H_ShemagOpen_khk", {__ICE_gear_allRoles}},
+	{"H_Bandanna_sand", {__ICE_gear_allRoles}},
+	{"H_Bandanna_khk", {__ICE_gear_allRoles}},
+	{"H_Bandanna_sgg", {__ICE_gear_allRoles}},
+	{"Afghan_01Hat", {__ICE_gear_allRoles}},
+	{"Afghan_02Hat", {__ICE_gear_allRoles}},
+	{"Afghan_03Hat", {__ICE_gear_allRoles}},
+	{"Afghan_04Hat", {__ICE_gear_allRoles}},
+	{"Afghan_05Hat", {__ICE_gear_allRoles}},
+	{"Afghan_06Hat", {__ICE_gear_allRoles}},
+		
+	
+
+};
